@@ -6,7 +6,7 @@
     ──「 ᴇxᴏɴ   ʀᴏʙᴏᴛ 」──
 </h2>
 
-##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/AbishnoiMF) 
+##  ᴄᴀᴛᴄʜ ᴍᴇ ɪɴ [ᴛɢ🏃‍♀️](https://t.me/Anime_savage_group) 
 
 ## sᴛᴀᴛs
 <p align="center">
