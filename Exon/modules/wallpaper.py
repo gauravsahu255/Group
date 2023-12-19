@@ -23,8 +23,8 @@ SOFTWARE.
 """
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
-# TG :- @Abishnoi1m
-#     UPDATE   :- Abishnoi_bots
+# TG :- @Anime_fan_owner
+#     UPDATE   :- Anime_x_god
 #     GITHUB :- ABISHNOI69 ""
 
 import random
@@ -70,7 +70,7 @@ async def wallpaper(_, msg):
     try:
         await Abishnoi.send_chat_action(msg.chat.id, enums.ChatAction.UPLOAD_PHOTO)
         await msg.reply_photo(
-            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/AbishnoiMF)"
+            preview, caption=f"🔎 ᴛɪᴛʟᴇ - {title}\nᴊᴏɪɴ [@ᴀʙɪsʜɴᴏɪᴍғ](t.me/anime_savage_group)"
         )
     # await msg.reply_document(pic, caption=f"🔎 ᴛɪᴛʟᴇ - {title} \n🥀 **ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :** {msg.from_user.mention}")
     except Exception as error:
